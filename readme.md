@@ -4,6 +4,9 @@
 [doc interessant](https://howtodoinjava.com/jersey/jersey-restful-client-examples/)
 
 
+[doc interessant](https://terasolunaorg.github.io/guideline/5.1.1.RELEASE/en/ArchitectureInDetail/REST.html)
+
+
 ![principe de base](doc/images/webserviceRESTFULServer/WebServicesRestfulJaxRSJerseyTomcat.jpg)
 
 Application à mettre en oeuvre
